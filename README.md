@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, moi c'est Mathys 👋
 
-<!--
-**SlyMath/SlyMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Etudiant dans l'informatique 
+Je suis un étudiant qui aime transformer ses idées en réalité. Ma philosophie est simple **si je peux l'imaginer, je peux le construire.**
 
-Here are some ideas to get you started:
+Touche-à-Tout, j'adore explorer de nouvelles technologies. J'apprends constamment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### 🛠️ Mes outils que j'utilise
+**Langages : **JavaScript, HTML, CSS..
+**Outils :** Git, VSCode
+**Centres d'intérêts :** Développement Web, Mobile..
+
+---
+###⚡En plus sur moi
+**Univers :** Grand fan de la saga *Kingdom Hearts*
+**Carburant :**Team Coffee, bien évidemment.
+**Hobby :** Passionnés d'animés.
+
+
+
