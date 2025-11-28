@@ -7,7 +7,7 @@ Touche-à-Tout, j'adore explorer de nouvelles technologies. J'apprends constamme
 
 
 ### 🛠️ Mes outils que j'utilise
-**Langages : **JavaScript, HTML, CSS..
+**Langages :** JavaScript, HTML, CSS..
 **Outils :** Git, VSCode
 **Centres d'intérêts :** Développement Web, Mobile..
 
