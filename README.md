@@ -14,7 +14,7 @@ Touche-à-Tout, j'adore explorer de nouvelles technologies. J'apprends constamme
 
 ### ⚡En plus sur moi
 **Univers :** Grand fan de la saga *Kingdom Hearts*
-**Carburant :**Team Coffee, bien évidemment.
+**Carburant :** Team Coffee, bien évidemment.
 **Hobby :** Passionnés d'animés.
 
 
