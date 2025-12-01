@@ -8,13 +8,17 @@ Touche-à-Tout, j'adore explorer de nouvelles technologies. J'apprends constamme
 
 ### 🛠️ Mes outils que j'utilise
 **Langages :** JavaScript, HTML, CSS..
+
 **Outils :** Git, VSCode
+
 **Centres d'intérêts :** Développement Web, Mobile..
 
 
 ### ⚡En plus sur moi
 **Univers :** Grand fan de la saga *Kingdom Hearts*
+
 **Carburant :** Team Coffee, bien évidemment.
+
 **Hobby :** Passionnés d'animés.
 
 
